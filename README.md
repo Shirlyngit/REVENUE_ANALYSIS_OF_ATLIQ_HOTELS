@@ -11,9 +11,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 *  Below is a preview of the dashboard created from the historical data given, to protray revenue trend and data insights extracted.
 
-  ![dashboard_screenshot](revenue_analysis_screenshot)
-  ![screenshot2](revenue_analysis_page2)
-  ![screenshot3](revenue_analysis_page3)
+  ![dashboard_screenshot](revenue_analysis_screenshot.PNG)
+  ![screenshot2](revenue_analysis_page2.PNG)
+  ![screenshot3](revenue_analysis_page3.PNG)
 
 
 
