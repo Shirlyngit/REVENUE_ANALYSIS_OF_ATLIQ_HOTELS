@@ -1,12 +1,3 @@
- # 🏘 REVENUE ANALYSIS OF ATLIQ HOTELS
-
-AtliQ Grands owns multiple five-star hotels across India. 
-They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. 
-As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
-
-Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
-
-
 ## ANALYSIS DASHBOARD OF ATLIQ REVENUE TREND PREVIEW:
 
 *  Below is a preview of the dashboard created from the historical data given, to protray revenue trend and data insights extracted.
@@ -15,8 +6,17 @@ Their revenue management team had decided to hire a 3rd party service provider t
   ![screenshot2](revenue_analysis_page2.PNG)
   ![screenshot3](revenue_analysis_page3.PNG)
 
+ 
+ 
+ 
+ 
+ # 🏘 REVENUE ANALYSIS OF ATLIQ HOTELS
 
+AtliQ Grands owns multiple five-star hotels across India. 
+They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. 
+As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
+Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
   
 
