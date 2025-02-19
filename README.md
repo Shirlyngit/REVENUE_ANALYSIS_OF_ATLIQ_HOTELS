@@ -2,9 +2,11 @@
 
 *  Below is a preview of the dashboard created from the historical data given, to protray revenue trend and data insights extracted.
 
-  ![dashboard_screenshot](revenue_analysis_screenshot.PNG)
-  ![screenshot2](revenue_analysis_page2.PNG)
-  ![screenshot3](revenue_analysis_page3.PNG)
+  ![dashboard_screenshot](https://github.com/Shirlyngit/REVENUE_ANALYSIS_OF_ATLIQ_HOTELS/blob/main/analysis_dashboard/revenue_analysis_screenshot.PNG)
+  
+  ![screenshot2](https://github.com/Shirlyngit/REVENUE_ANALYSIS_OF_ATLIQ_HOTELS/blob/main/analysis_dashboard/revenue_analysis_page2.PNG)
+  
+  ![screenshot3](https://github.com/Shirlyngit/REVENUE_ANALYSIS_OF_ATLIQ_HOTELS/blob/main/analysis_dashboard/revenue_analysis_page3.PNG)
 
  
  
